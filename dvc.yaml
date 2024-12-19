@@ -1,0 +1,9 @@
+stages:
+  create_features:
+    cmd: python Obesity_predict/create_features_and_base_pipeline.py
+
+  train:
+    cmd: python Obesity_predict/configure_and_fit_pipeline.py
+
+  predict:
+    cmd: python Obesity_predict/predict_pipeline.py
