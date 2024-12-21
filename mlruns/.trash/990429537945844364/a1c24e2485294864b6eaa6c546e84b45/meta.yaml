@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/a1c24e2485294864b6eaa6c546e84b45/artifacts
+deleted_time: 1734755341642
+end_time: 1734754746020
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: a1c24e2485294864b6eaa6c546e84b45
+run_name: Regresion Logistica 3
+run_uuid: a1c24e2485294864b6eaa6c546e84b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734754736198
+status: 3
+tags: []
+user_id: macbookair

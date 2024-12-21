@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/8022d41feb844a249427543422b10993/artifacts
+deleted_time: 1734753609433
+end_time: 1734753404356
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: 8022d41feb844a249427543422b10993
+run_name: languid-worm-833
+run_uuid: 8022d41feb844a249427543422b10993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734753328557
+status: 4
+tags: []
+user_id: macbookair

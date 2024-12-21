@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/c4b67d9d741a4069b733ce6cfa779526/artifacts
+deleted_time: 1734755341652
+end_time: 1734754656689
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: c4b67d9d741a4069b733ce6cfa779526
+run_name: SVM 3
+run_uuid: c4b67d9d741a4069b733ce6cfa779526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734754646237
+status: 3
+tags: []
+user_id: macbookair

@@ -1,0 +1,20 @@
+artifact_path: LDA model 3
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 4648
+model_uuid: 12d509b1594c4f8d8ded8f963c72b9d0
+run_id: b0902682b0c94727b005b9fce528d3b4
+utc_time_created: '2024-12-21 05:28:27.141116'

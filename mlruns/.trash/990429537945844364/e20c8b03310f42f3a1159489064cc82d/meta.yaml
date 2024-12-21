@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/e20c8b03310f42f3a1159489064cc82d/artifacts
+deleted_time: 1734758322345
+end_time: 1734757580889
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: e20c8b03310f42f3a1159489064cc82d
+run_name: Naive Bayes 2
+run_uuid: e20c8b03310f42f3a1159489064cc82d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734757576844
+status: 3
+tags: []
+user_id: macbookair

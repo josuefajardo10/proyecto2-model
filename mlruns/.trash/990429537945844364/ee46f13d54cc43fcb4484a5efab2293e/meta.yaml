@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/ee46f13d54cc43fcb4484a5efab2293e/artifacts
+deleted_time: 1734757418706
+end_time: 1734755648901
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: ee46f13d54cc43fcb4484a5efab2293e
+run_name: Random Forest Model 3
+run_uuid: ee46f13d54cc43fcb4484a5efab2293e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734755641100
+status: 3
+tags: []
+user_id: macbookair

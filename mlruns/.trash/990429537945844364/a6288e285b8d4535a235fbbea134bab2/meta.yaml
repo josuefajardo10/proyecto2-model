@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/a6288e285b8d4535a235fbbea134bab2/artifacts
+deleted_time: 1734755341535
+end_time: 1734754898351
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: a6288e285b8d4535a235fbbea134bab2
+run_name: LDA 2
+run_uuid: a6288e285b8d4535a235fbbea134bab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734754891127
+status: 3
+tags: []
+user_id: macbookair
