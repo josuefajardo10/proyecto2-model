@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/6b5a2f8f62a44312abd267d6588df791/artifacts
+deleted_time: 1734754403378
+end_time: 1734754378258
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: 6b5a2f8f62a44312abd267d6588df791
+run_name: handsome-mouse-415
+run_uuid: 6b5a2f8f62a44312abd267d6588df791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734754309534
+status: 4
+tags: []
+user_id: macbookair

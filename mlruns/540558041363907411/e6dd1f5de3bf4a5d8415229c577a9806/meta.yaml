@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540558041363907411/e6dd1f5de3bf4a5d8415229c577a9806/artifacts
+end_time: 1734758872363
+entry_point_name: ''
+experiment_id: '540558041363907411'
+lifecycle_stage: active
+run_id: e6dd1f5de3bf4a5d8415229c577a9806
+run_name: Naive Bayes 1
+run_uuid: e6dd1f5de3bf4a5d8415229c577a9806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734758868692
+status: 3
+tags: []
+user_id: macbookair

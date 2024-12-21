@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/990429537945844364/e6ae1e83448f476aaf74b9221ed367cb/artifacts
+deleted_time: 1734754044916
+end_time: 1734754015187
+entry_point_name: ''
+experiment_id: '990429537945844364'
+lifecycle_stage: deleted
+run_id: e6ae1e83448f476aaf74b9221ed367cb
+run_name: rare-mule-340
+run_uuid: e6ae1e83448f476aaf74b9221ed367cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734753939904
+status: 4
+tags: []
+user_id: macbookair

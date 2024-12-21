@@ -1,0 +1,12 @@
+artifact_path: LDA model 1
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 21
+model_uuid: a714d8f06c9549169d71ebbac77fbd60
+run_id: cf807e93d21d4cf3af67d2ebb93ae426
+utc_time_created: '2024-12-21 04:21:02.706729'
